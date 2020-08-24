@@ -1,0 +1,12 @@
+C:\Users\Serdar Yildiz\source\repos\FileGen\FileGen\bin\Debug\netcoreapp3.1\FileGen.exe
+C:\Users\Serdar Yildiz\source\repos\FileGen\FileGen\bin\Debug\netcoreapp3.1\FileGen.deps.json
+C:\Users\Serdar Yildiz\source\repos\FileGen\FileGen\bin\Debug\netcoreapp3.1\FileGen.runtimeconfig.json
+C:\Users\Serdar Yildiz\source\repos\FileGen\FileGen\bin\Debug\netcoreapp3.1\FileGen.runtimeconfig.dev.json
+C:\Users\Serdar Yildiz\source\repos\FileGen\FileGen\bin\Debug\netcoreapp3.1\FileGen.dll
+C:\Users\Serdar Yildiz\source\repos\FileGen\FileGen\bin\Debug\netcoreapp3.1\FileGen.pdb
+C:\Users\Serdar Yildiz\source\repos\FileGen\FileGen\obj\Debug\netcoreapp3.1\FileGen.AssemblyInfoInputs.cache
+C:\Users\Serdar Yildiz\source\repos\FileGen\FileGen\obj\Debug\netcoreapp3.1\FileGen.AssemblyInfo.cs
+C:\Users\Serdar Yildiz\source\repos\FileGen\FileGen\obj\Debug\netcoreapp3.1\FileGen.csproj.CoreCompileInputs.cache
+C:\Users\Serdar Yildiz\source\repos\FileGen\FileGen\obj\Debug\netcoreapp3.1\FileGen.dll
+C:\Users\Serdar Yildiz\source\repos\FileGen\FileGen\obj\Debug\netcoreapp3.1\FileGen.pdb
+C:\Users\Serdar Yildiz\source\repos\FileGen\FileGen\obj\Debug\netcoreapp3.1\FileGen.genruntimeconfig.cache
